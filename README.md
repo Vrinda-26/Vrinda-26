@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrinda Saboo</h1>
-<h3 align="center">Passionate frontend developer currently pursuing ECE at BITS Pilani, Hyderabad Campus; exploring C++ and Data Science in my second year.</h3>
+<h3 align="center">Passionate frontend developer from India.</h3>
 
 - 🌱 exploring C++, Data Science
 <h3 align="left">Connect with me:</h3>
