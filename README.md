@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrinda Saboo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA**
-
+- 🌱 Passionate frontend developer currently pursuing ECE at BITS Pilani, Hyderabad Campus; exploring C++ and Data Science in my second year.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_vrinda26_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vrinda26_" height="30" width="40" /></a>
